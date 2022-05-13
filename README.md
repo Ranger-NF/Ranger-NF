@@ -4,7 +4,7 @@
 
 ## 🤝 Contact me
 <a href="https://discordapp.com/users/599489300672806913">
-<img src="//external-content.duckduckgo.com/ip3/discord.com.ico" height="50" padding="90"></img></a>
+<img src="https://user-images.githubusercontent.com/78952725/168214822-37b2e07d-20bd-4416-9d99-22231cbda4f6.png" height="50" padding="90"></img></a>
 
 ## 📓 Projects
 

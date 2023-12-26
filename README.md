@@ -1,10 +1,3 @@
-![Ranger-NF_banner](./Ranger_banner.png)
-
-<p align="center">
-  <a href="https://instagram.com/ranger_nf/">
-  <img src="https://discord.com/assets/b26b06a7d802713aeb9c229999236b93.svg" height="50" padding="90"></img></a>
-</p>
-
 ## 🪀 About me
 
 - ⚗ Proficient in Python & Javascript

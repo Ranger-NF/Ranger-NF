@@ -1,4 +1,4 @@
-![Ranger-NF_banner](https://user-images.githubusercontent.com/78952725/167763674-18fb7b64-9a20-41b2-be46-587897f0329f.png)
+![Ranger-NF_banner](./Ranger_banner.png)
 
 <p align="center">
   <a href="https://instagram.com/ranger_nf/">

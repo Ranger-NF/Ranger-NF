@@ -1,4 +1,4 @@
-<h6 align="center"><samp>"Tech Odyssey, Treasuring Earth" 🌏✨</samp></h6>
+<h4 align="center"><samp>"Tech Odyssey, Treasuring Earth" 🌏✨</samp></h4>
 
 ## 🪀 About me
 

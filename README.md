@@ -1,3 +1,5 @@
+<h6 align="center"><samp>"Tech Odyssey, Treasuring Earth" 🌏✨</samp></h6>
+
 ## 🪀 About me
 
 - ⚗ Proficient in Python & Javascript
@@ -6,9 +8,10 @@
 - 🏗 Loves self-hosting
 - 💚 Supports FOSS
 
-## 📈 My GitHub Stats
+<h1></h1>
+
+<br>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ranger-NF&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranger-NF&layout=compact&show_icons=true&theme=transparent"/>
 </p>

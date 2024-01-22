@@ -3,7 +3,8 @@
 ## 🪀 About me
 
 - ⚗ Proficient in Python & Javascript
-- 🗒 Writes blogs on privacy, foss and environment
+- 🦀 Trying to learn rust (To help and contribute to open source projects)
+- 🗒 Writes blogs on privacy and environment
 - 🐧 Linux user
 - 🏗 Loves self-hosting
 - 💚 Supports FOSS

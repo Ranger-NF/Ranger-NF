@@ -5,6 +5,7 @@
 
 ## 🪀 About me
 
+- 🎮 Loves developing cute and simple Godot games
 - ⚗ Proficient in Python & Javascript
 - 🦀 Trying to learn rust (To help and contribute to open source projects)
 - 🗒 Writes blogs on privacy and environment

@@ -1,4 +1,7 @@
-<h4 align="center"><samp>"Tech Odyssey, Treasuring Earth" 🌏✨</samp></h4>
+<p align="center">
+<img src="ranger_banner.svg" title="The Breakthrough logo">
+</p>
+
 
 ## 🪀 About me
 

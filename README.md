@@ -10,15 +10,16 @@
 - 🗒 Writes blogs on anything that peaks my interest
 - 🐧 Linux user
 - 💚 Supports FOSS
-  
-  ---
-  
-  ## 💭 Contact
-  
-  Message me on [Instagram](https://www.instagram.com/ranger_nf/) for any doubts, queries or any if you want to just chat!
-  
-  ---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ranger-NF&show_icons=true&theme=transparent"/>
-</p>
+---
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ranger-NF&show_icons=true&theme=transparent"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranger-NF"/>
+</div>
+
+---
+
+## 💭 Contact
+
+Message me on [Instagram](https://www.instagram.com/ranger_nf/) for any doubts, queries or any if you want to just chat!

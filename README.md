@@ -11,14 +11,10 @@
 - 🐧 Linux user
 - 💚 Supports FOSS
 
----
-
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ranger-NF&show_icons=true&theme=transparent"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranger-NF&show_icons=true&theme=transparent&exclude_repo=sprig,scrapbook,Blackhole-Linux,hack-hour&hide=c%2B%2B,cmake"/>
 </div>
-
----
 
 ## 💭 Contact
 

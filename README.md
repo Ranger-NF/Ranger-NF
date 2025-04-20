@@ -2,5 +2,5 @@
 <!-- special mention to github.com/ascpixi - thanks pixi! <3 -->
 
 <p align="center">
-<img src="terminal-anim.svg" title="The Breakthrough logo">
+    <img src="terminal-anim.svg" title="Profile image" alt="Hi, I'm Fahad! A passionate computer science student, who loves foss!">
 </p>
